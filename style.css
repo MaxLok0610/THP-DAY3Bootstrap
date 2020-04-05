@@ -1,0 +1,9 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+
+.typo{
+    font-family: 'Montserrat', sans-serif
+}
